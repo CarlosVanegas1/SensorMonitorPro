@@ -26,7 +26,7 @@ Este proyecto se desarrolló como parte de un interés apasionado por la ingenie
 
 ## Instalación
 
-Para obtener más detalles sobre cómo instalar y utilizar "SensorMonitor Pro", consulte nuestra [Guía de Instalación](docs/installation.md).
+Para obtener más detalles sobre cómo instalar y utilizar "SensorMonitor Pro", consulte nuestra [Guía de Instalación](installation.md).
 
 ---
 
